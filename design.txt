@@ -1,0 +1,3 @@
+Utilizaremos a linguagem JavaScript na codificação por ser uma linguagem versátil em ambientes mobile,
+podendo ser utilizada tanto em sistemas android, quanto em sistemas iOS.
+Utilizaremos armazenamento em nuvem, framework Reactnative e banco de dados Firebase.

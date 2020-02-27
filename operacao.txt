@@ -1,0 +1,7 @@
+Primeiramente, o cliente deverá baixar o aplicativo e cadastrar um cartão de crédito válido, para checar a 
+validade do cartão, será realizada uma transação bancária de R$1,00 que será devolvido logo após a verificação.
+O cliente deverá escolher o destino, o sistema irá calcular o valor total da corrida e apontar o ponto de pouso
+mais próximo, onde o passageiro deverá aguardar o avião selecionado.
+O valor será debitado no momento da confirmação da viagem.
+Ao final da viagem o avião irá pousar no ponto de pouso mais próximo do destino.
+O cliente deverá avaliar as condições do avião após a conclusão da viagem.

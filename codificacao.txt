@@ -1,0 +1,14 @@
+1-Desenvolvimento de componentes para integração com as plataformas de pagamentos.
+2-Desenvolvimento de componente para integração com as Centrais de Emergência.
+3-Desenvolvimento do componente para medir e calcular o quanto de energia o veículo ainda tem disponível.
+4-Desenvolvimento do componente para verificação de área de pouso
+5-Desenvolvimento do componente para localizar veículo mais próximo de acordo com a localização do passageiro.
+6-Desenvolvimento do componente para integrar GPS do celular com o carro
+7-Desenvolvimento do componente para calcular viagem x energia disponível no veículo x custo por viagem e 
+só poderá dar resposta a solicitação se o custo da viagem for até 10 dólares.
+8-Desenvolvimento de relatórios de corridas
+9-Desenvolvimento do componente para cálculo da viagem ao usuário.
+10-Desenvolvimento do componente apresentar o tempo que o passageiro deverá esperar até o veículo chegar 
+no ponto de partida.
+11- Desenvolvimento do componente de integração via plataformas de email e validação obrigatória dos 
+dados cadastrais.

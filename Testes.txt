@@ -1,0 +1,10 @@
+Testar pagamento com todas as opções via sistema
+Testar acionamento as centrais de emergência
+Testar cálculo de energia disponível no veículo
+Testar verificação da área de pouso
+Testar solicitação passageiro x carro 
+Testar integração do GPS
+Testar viagem x energia disponível no veículo x custo por viagem 
+Testar limitação de viagens até 10 dólares
+Testar prévia dos valores apresentados aos usuários.
+Testar cadastro no sistema via email e dados cadastrais obrigatórios.
