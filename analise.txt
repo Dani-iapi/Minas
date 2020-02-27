@@ -1,0 +1,19 @@
+1- o sistema deve ter IA, para pilotar e gerenciar o veículo
+2- o sistema IA deve ser integrado com as centrais de emergência pertinentes em caso de acidente ou falha técnica.
+3- o sistema deverá medir e calcular o quanto de energia o veículo ainda tem disponível.
+4- o sistema deverá identificar os passageiros antes de iniciar a viagem.
+5- o sistema deve ser seguro e integrado com os outros veículos para evitar acidentes.
+6- O sistema deve avaliar o melhor lugar possível para solicitar o serviço devido a disponibilidade para pouso 
+e no destino final também será necessário essa análise
+para evitar acidentes e não causar trânsito.
+7- o sistema deverá encontrar os motoristas mais próximos daquela região calcular a viagem x energia disponível 
+no veiculo x custo por viagem e só poderá dar resposta a solicitação se o custo da viagem for até 10 dólares.
+8- o sistema deverá aceitar pagamento via bitcoins, debito e cartão de crédito.
+9- o sistema deve gerar um relacionamento de corridas para passageiro.
+10- o sistema deve mostrar o rastreamento e o tempo de chegada ao destino.
+11- O sistema precisa ter uma usabilidade fácil para o usuário.
+12- O sistema deve calcular o preço até o destino e apresentar ao passageiro como uma prévia se tiver um veículo 
+disponível.
+13-o sistema deve mostrar o tempo de espera até o veículo chegar ao passageiro.
+14- o sistema deverá fazer autenticação via plataformas de email e solicitar validação de cadastro e solicitar 
+dados obrigatórios de acordo com a plataforma de pagamento.
